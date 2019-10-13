@@ -1,1 +1,3 @@
-# code
+void bb()
+{
+}
